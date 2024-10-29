@@ -6,7 +6,13 @@
 Basic ICMP Documentation
 ========================
 
-Please add your names and group ID here by editing `index.rst` in the docs folder.
+Ibrahim Ersel Yigit 2449072
+
+Beyza Nur Koc 2443430
+
+Group 46
+
+https://github.com/Ersel26/CENG435-PA-phase1-covertovert
 
 
 .. toctree::

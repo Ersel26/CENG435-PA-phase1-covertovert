@@ -16,11 +16,12 @@ def check_and_show_packet(packet):
 
 def main():
     # wait for packet
-    scapy.sniff(
-        filter = 'icmp',
-        prn = check_and_show_packet,
-        count = NUM_OF_PACKET
+     scapy.sniff(
+         filter = 'icmp',
+         prn = check_and_show_packet,
+         count = NUM_OF_PACKET
     )
+    
 
 if __name__ == '__main__':
     main()
